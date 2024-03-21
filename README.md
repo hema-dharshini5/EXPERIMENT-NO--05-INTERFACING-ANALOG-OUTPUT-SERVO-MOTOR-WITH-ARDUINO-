@@ -63,6 +63,9 @@ CIRCUIT DIAGRAM
 ![Screenshot 2024-03-21 093825](https://github.com/hema-dharshini5/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/147117728/3479be53-6ef0-4fc1-84c0-968789527090)
 
 ### Schematic respresentation:
+
+
+
 ![Screenshot 2024-03-21 093932](https://github.com/hema-dharshini5/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/147117728/185d6746-6814-44c9-ba12-dbd56e6d534d)
 
 ### Graph:
